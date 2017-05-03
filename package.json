@@ -1,0 +1,12 @@
+{
+  "name": "%%PARTNERNAME%%-bidder",
+  "version": "1.5.0",
+  "description": "%%PARTNERNAME%% Bidder",
+  "main": "%%PARTNERNAME%%.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.internal.casalemedia.com:headertag/%%PARTNERNAME%%-bidder.git"
+  },
+  "author": "Index Exchange",
+  "license": "UNLICENSED"
+}
